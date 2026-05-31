@@ -1,0 +1,2 @@
+# NKLegacy
+NT-like OS
